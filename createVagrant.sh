@@ -28,6 +28,9 @@ mod 'puppetlabs/stdlib',
 
 mod 'puppetlabs/concat',
   :git => 'https://github.com/puppetlabs/puppetlabs-concat'
+
+mod 'puppi',
+  :git => 'https://github.com/example42/puppi.git'
 EOF
 
 # default.pp used by Puppet to assign roles/modules to server

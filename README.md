@@ -7,7 +7,8 @@ Prerequisites:
  *  vagrant r10k plugin (`vagrant plugin install vagrant-r10k`)
  
  
- Some basic hiera and and a class example is created, to remind (me) the basic usage of puppet with vagrant
+Some basic hiera and an example class is created, to remind (me)
+the basic usage of puppet with vagrant.
  
 
 
